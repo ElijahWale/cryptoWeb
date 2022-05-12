@@ -1,4 +1,8 @@
 # crptoproject
+**Built with Vuejs and Vuex**
+![crypro Image](/src/assets/cryptoweb.jpg)
+
+
 
 ## Project setup
 ```
